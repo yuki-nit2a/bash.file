@@ -1,0 +1,2 @@
+# bash.file
+bash dotfile
